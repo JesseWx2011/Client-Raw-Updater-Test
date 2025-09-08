@@ -1,7 +1,7 @@
 /*jslint plusplus: true, sloppy: true, indent: 4 */
 
 //Ajust these values to your liking.
-var clientRawName = "Data from https://raw.githubusercontent.com/JesseWx2011/ClientRaw-Updater/refs/heads/master/clientraw.txt", //The names of your clientraw files
+var clientRawName = "https://raw.githubusercontent.com/JesseWx2011/ClientRaw-Updater/refs/heads/master/", //The names of your clientraw files
     clientRawExtraName = "clientrawextra.txt",
     clientRawHourName = "clientrawhour.txt",
     clientRawDailyName = "clientrawdaily.txt",
