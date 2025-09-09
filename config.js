@@ -1,10 +1,10 @@
 /*jslint plusplus: true, sloppy: true, indent: 4 */
 
 //Ajust these values to your liking.
-var clientRawName = "https://raw.githubusercontent.com/JesseWx2011/ClientRaw-Updater/refs/heads/master/clientraw.txt", //The names of your clientraw files
-    clientRawExtraName = "https://raw.githubusercontent.com/JesseWx2011/ClientRaw-Updater/refs/heads/master/clientrawextra.txt",
-    clientRawHourName = "https://raw.githubusercontent.com/JesseWx2011/ClientRaw-Updater/refs/heads/master/clientrawhour.txt",
-    clientRawDailyName = "https://raw.githubusercontent.com/JesseWx2011/ClientRaw-Updater/refs/heads/master/clientrawdaily.txt",
+var clientRawName = "https://corsproxy.io/?url=https://raw.githubusercontent.com/JesseWx2011/ClientRaw-Updater/refs/heads/master/clientraw.txt", //The names of your clientraw files
+    clientRawExtraName = "https://corsproxy.io/?url=https://raw.githubusercontent.com/JesseWx2011/ClientRaw-Updater/refs/heads/master/clientrawextra.txt",
+    clientRawHourName = "https://corsproxy.io/?url=https://raw.githubusercontent.com/JesseWx2011/ClientRaw-Updater/refs/heads/master/clientrawhour.txt",
+    clientRawDailyName = "https://corsproxy.io/?url=https://raw.githubusercontent.com/JesseWx2011/ClientRaw-Updater/refs/heads/master/clientrawdaily.txt",
     customBaseURL = "", // OPTIONAL: Set the path to where your clientraw files are uploaded e.g., "http://www.goldenbaynzweather.info/wdl/" (note: final backslash and quotation marks must be included). Otherwise leave as: false
     lang = "en", //Set Language. To see what lanuages are currently supported, see the readme file at: https://github.com/Yerren/FreshWDL/blob/master/README.md
     generalSettings = {
